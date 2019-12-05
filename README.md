@@ -1,5 +1,5 @@
 # Cross-Domain-Fake-News-Detection
-Built a domain independent Multi Task and End to End Deep Learning model which can be trained on one news domain to classify fake news, and be used to classify fake news on another domain.
+Built a domain independent Multi Task and End to End Deep Learning model which can be trained on one news domain to classify fake news, and be used to classify fake news on another domain. The aim was to learn a model which learns domain independent representations from articles and classify them as fake news or not.
 
 Multiple models were built and tested, and this notebook as well as the report attached takes you through the whole process. Enjoy!
 
